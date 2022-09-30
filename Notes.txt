@@ -1,0 +1,4 @@
+Security Features:
+- Record of used keys (blacklist)
+- Define custom NFC format
+- Generate MAC address dependent NFC codes
